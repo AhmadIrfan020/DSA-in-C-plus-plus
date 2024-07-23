@@ -1,0 +1,135 @@
+***************************************************************************** DSA ******************************************************************************************
+### Arrays & string
+- Basic Operations
+- Dynamic Arrays
+
+### Linked Lists
+- Singly Linked List (LL)
+- Doubly Linked List (DLL)
+- Circular Linked List
+
+### Stacks
+- Stack using Arrays
+- Stack using Linked List
+- Applications (e.g., Expression Evaluation, Parenthesis Matching)
+
+### Queues
+- Queue using Arrays
+- Queue using Linked List
+- Circular Queue
+- Priority Queue
+
+### Trees
+- Binary Tree
+- Binary Search Tree (BST)
+- AVL Tree
+- Red-Black Tree (RBST)
+- Segment Tree
+- Trie (Prefix Tree)
+
+### Heaps
+- Min Heap
+- Max Heap
+- Heap Sort
+
+### Hashing
+- Hash Tables
+  - Hash Functions
+  - Collision Handling (Chaining, Open Addressing)
+  - Applications (e.g., Caching, Hash Maps)
+
+### Graphs
+- Graph Representations (Adjacency Matrix, Adjacency List)
+- Graph Traversals (DFS, BFS)
+- Minimum Spanning Tree (Prim's, Kruskal's)
+- Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+- Topological Sorting
+
+### Recursion and Backtracking
+- Recursive Functions
+- Backtracking (N-Queens Problem, Sudoku Solver, Subset Sum Problem)
+
+### Sorting Algorithms
+- Basic Sorting (Bubble Sort, Insertion Sort, Selection Sort)
+- Advanced Sorting (Merge Sort, Quick Sort, Heap Sort)
+- Counting Sort
+- Radix Sort
+
+### Searching Algorithms
+- Linear Search
+- Binary Search
+
+### Dynamic Programming (DP)
+- Fibonacci Sequence
+- Knapsack Problem
+- Longest Common Subsequence
+- Matrix Chain Multiplication
+- Longest Increasing Subsequence
+- Edit Distance
+
+### Greedy Algorithms
+- Activity Selection
+- Huffman Coding
+- Job Scheduling
+- Fractional Knapsack
+
+### Miscellaneous Algorithms
+- Divide and Conquer (Binary Search, Merge Sort, Quick Sort)
+- Brute Force (Pattern Matching)
+- Graph Coloring
+
+### Additional Data Structures and Concepts
+- Union-Find (Disjoint Set)
+  - Union by Rank
+  - Path Compression
+- Fenwick Tree (Binary Indexed Tree)
+- Segment Tree
+- Suffix Array and Suffix Tree
+
+### Algorithm Design Paradigms
+- Greedy Algorithms
+- Divide and Conquer
+- Dynamic Programming
+- Backtracking
+ 
+********************************************************************************************************************************************************************************************
+
+Time complexity
+array-vector(order) & linked list(unordered)
+read (fast & slow) 
+insert (slow & fast)
+delete (slow & fast)
+
+hashmap(unordered)
+read fast 
+insert fast 
+delete fast 
+
+stact
+last in first out   ( L I F O )
+push add new last element
+pop delete last element
+peek read or last element checking
+
+queues
+first in first out   ( F I F O )
+enqueue add new first element
+dequeue delete first element
+front read or first element checking
+
+TREES
+nodes & edges ....
+binary tree fast
+binary search trees slow
+heap & tries trees
+AVL tree
+tree traversal
+
+heap
+
+Graph
+nodes & edges ...
+
+basic quick merge sorting
+
+DP
